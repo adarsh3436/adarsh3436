@@ -1,0 +1,2 @@
+Name :- "Adarsh"
+print{Name}
